@@ -1,3 +1,3 @@
 # CombineFeedback
 
-A description of this package.
+An implementation of RxFeedback https://github.com/NoTests/RxFeedback.swift using Combine.
